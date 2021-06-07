@@ -1,2 +1,2 @@
-# crud-users
-Criação de uma api para realizar um crud em node.
+# crud-users  
+Api criado para a prática da linguagem sem framework.  
