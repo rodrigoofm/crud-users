@@ -1,2 +1,3 @@
 # crud-users  
-Api criado para a prática da linguagem sem framework.  
+Api criada para a prática da linguagem como primeiros passos.  
+Visando praticar sobre REST, protocolo HTTP e node.
